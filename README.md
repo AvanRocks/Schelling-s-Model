@@ -1,4 +1,4 @@
-# Schelling-s-Model
+# Schelling's Model of Segregation
 A program simulating Schelling's Model of Segregation
 
 Schelling's Model of Segregation is a very simple model simulating human populations over time that leads to a surprising result.
